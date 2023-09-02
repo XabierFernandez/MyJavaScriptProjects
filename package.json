@@ -1,0 +1,16 @@
+{
+  "name": "evanescent-stew-lay-hctgn",
+  "productName": "evanescent-stew-lay-hctgn",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "xabier",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "25.1.1"
+  }
+}
